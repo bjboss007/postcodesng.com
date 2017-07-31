@@ -2,8 +2,6 @@
 
 Query for Nigeria postcodes and geolocations over HTTP. Postcodesng.com uses scraped data from the web.
 
-Documentation can be found at [postcodesng.com](http://postcodesng.com)
-
 ## Requirements
 
 Please make sure you have the following available:
