@@ -7,7 +7,7 @@ Query for Nigeria postcodes and geolocations over HTTP. Postcodesng.com uses scr
 Please make sure you have the following available:
 
 - Node.js v4.x [(Instructions)](http://nodejs.org/)
-- Express (4.15.1 or greater)
+- Express [(Instructions)](http://expressjs.com/en/starter/installing.html)
 - Mongo DB [(Instructions)](https://docs.mongodb.com/manual/mongo/)
 
 ## Install & Download Data & Run
