@@ -25,7 +25,7 @@ $ cd postcodesng.com/ && npm install
 ```
 $ node app.js // Default environment is development
 
-$ nodemon // That's if you have [Nodemon](https://www.npmjs.com/package/nodemon) installed
+$ nodemon // That's if you have Nodemon installed
 ```
 
 ## To Do
