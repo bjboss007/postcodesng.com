@@ -17,7 +17,7 @@ Please make sure you have the following available:
 **Download and install**
 
 ```bash
-$ git clone https://github.com/postcodesng/postcodesng.com.git
+$ git clone https://github.com/afoke/postcodesng.com.git
 
 $ cd postcodesng.com/ && npm install
 ```
